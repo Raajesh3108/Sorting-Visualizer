@@ -2,9 +2,7 @@
 Interactive Bubble Sort Visualizer with Sound Integration.
 
 ## Preview :
-<img width="450px;" src="https://github.com/Raajesh3108/Sorting-Visualizer/assets/120726386/0e783602-5639-4e3e-b8c8-4102958fe609"/>
-<img width="450px;" src="https://github.com/Raajesh3108/Sorting-Visualizer/assets/120726386/8c91f661-c8ec-4562-9ffe-043f989311a3"/>
-<img width="450px;" src=https://github.com/Raajesh3108/Sorting-Visualizer/assets/120726386/1ea5538a-edbe-4156-8a4c-60661b2fb2d6/>
+<img width="450px;" src="https://github.com/Raajesh3108/Sorting-Visualizer/assets/120726386/ffb62792-1f71-4f20-98d2-862ab44b8bed"/>
 
 ## Description :
 The Interactive Bubble Sort Visualizer is a meticulously crafted web application, leveraging the power of HTML, CSS, and JavaScript to deliver an intuitive and educational experience in the realm of sorting algorithms. This project focuses on visualizing the Bubble Sort algorithm, providing users with a clear understanding of its mechanics.
